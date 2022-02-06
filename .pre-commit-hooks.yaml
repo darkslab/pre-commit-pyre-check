@@ -4,5 +4,3 @@
   language: python
   types: [python]
   pass_filenames: false
-  additional_dependencies: []
-  verbose: true

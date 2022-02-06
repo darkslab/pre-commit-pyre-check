@@ -9,7 +9,7 @@ Add this to your `.pre-commit-config.yaml`
 
 ```yaml
 - repo: https://github.com/darkslab/pre-commit-pyre-check
-  rev: 'v1-0.9.10' # pre-commit-pyre-check (v1) and pyre-check (0.9.10)
+  rev: 'v3.0.0-0.9.10' # pre-commit-pyre-check (v3.0.0) and pyre-check (0.9.10)
   hooks:
     - id: pyre-check
 ```
